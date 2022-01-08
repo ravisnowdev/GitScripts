@@ -1,0 +1,8 @@
+#mkdir <folder name>
+#ls -ltr
+#ls -ltra
+#vi <file name>
+#:wq
+#:q
+#i---->insert mode
+
