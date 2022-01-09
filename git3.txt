@@ -1,6 +1,2 @@
 1
 2
-Reset Types:
-1.soft
-2.mixed
-3.hard
